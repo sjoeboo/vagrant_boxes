@@ -88,17 +88,17 @@
         "artifact_type": "vagrant.box",
         "metadata": {
           "provider": "vmware_desktop",
-          "version": "0.0.1"
+          "version": "0.0.2"
         }
       },
       {
         "type": "atlas",
-        "only": ["virtualbox-iso"],
+        "only": ["virtualbo2x-iso"],
         "artifact": "sjoeboo/centos-6-7-x86-ansible",
         "artifact_type": "vagrant.box",
         "metadata": {
           "provider": "virtualbox",
-          "version": "0.0.1"
+          "version": "0.0.2"
         }
       }
     ]
